@@ -4,3 +4,4 @@ Resolusi lain
 - Membuat Wordpress dari basic
 - Belajar jsp
  * jsp 1
+ * jsp 2
