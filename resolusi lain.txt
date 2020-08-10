@@ -1,3 +1,4 @@
 Resolusi lain
-- Belajar css
+- Belajar css 
+ * dari basic css + html
 - Membuat Wordpress dari basic
