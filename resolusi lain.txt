@@ -1,7 +1,6 @@
 Resolusi lain
 - Belajar css 
  * dari basic css + html
-- Membuat Wordpress dari basic
 - Belajar jsp
- * jsp 1
- * jsp 2
+* jsp 3
+
