@@ -3,3 +3,4 @@ Resolusi lain
  * dari basic css + html
 - Membuat Wordpress dari basic
 - Belajar jsp
+ * jsp 1
