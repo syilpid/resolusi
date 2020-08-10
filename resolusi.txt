@@ -1,4 +1,4 @@
 Resolusi
-- Belajar git dan github
 - Membuat aplikasi seperti damogo (aplikasi anti mubazir - makanan & barang tidak terpakai)
 - Belajar css
+- Belajar bahasa arab
